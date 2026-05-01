@@ -99,7 +99,7 @@ const projectData = {
     title: 'Moco — Money Control',
     desc: 'Aplikasi manajemen keuangan personal yang membantu mahasiswa melacak dan mengontrol pengeluaran harian mereka.',
     bg: 'thumb-moco',
-    logo: 'logo-moco.png',
+    logo: "logo-moco.png",
     problem: 'Mahasiswa sering kesulitan melacak pengeluaran harian dan tidak memiliki kesadaran terhadap pola pengeluaran mereka, menyebabkan keuangan tidak terkelola dengan baik.',
     role: 'Bertanggung jawab penuh atas proses UI/UX Design dari tahap riset, wireframing, prototyping, hingga desain final. Berkolaborasi dengan tim developer untuk memastikan implementasi sesuai desain.',
     tools: ['Figma', 'FigJam', 'Google Forms', 'Flutter'],
