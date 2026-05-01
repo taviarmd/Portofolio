@@ -102,7 +102,7 @@ const projectData = {
     logo: "logo-moco.png",
     problem: 'Mahasiswa sering kesulitan melacak pengeluaran harian dan tidak memiliki kesadaran terhadap pola pengeluaran mereka, menyebabkan keuangan tidak terkelola dengan baik.',
     role: 'Bertanggung jawab penuh atas proses UI/UX Design dari tahap riset, wireframing, prototyping, hingga desain final. Berkolaborasi dengan tim developer untuk memastikan implementasi sesuai desain.',
-    tools: ['Figma', 'FigJam', 'Google Forms', 'Flutter'],
+    tools: ['Figma'],
     highlights: [
       'Dashboard visual dengan pie chart interaktif untuk kategori pengeluaran',
       'Sistem kode warna untuk memudahkan identifikasi jenis pengeluaran',
@@ -118,7 +118,7 @@ const projectData = {
     logo: "logo-pulmocare.png",
     problem: 'Kurangnya kesadaran masyarakat tentang kesehatan paru-paru dan minimnya alat pemantauan mandiri yang mudah diakses serta mudah dipahami oleh non-medis.',
     role: 'UI/UX Designer — melakukan riset pengguna, membuat user persona & peta perjalanan, wireframing, prototyping, dan uji kegunaan untuk memastikan informasi medis tersaji dengan cara yang mudah dipahami.',
-    tools: ['Figma', 'FigJam', 'Miro', 'Maze'],
+    tools: ['Figma', 'Flutter'],
     highlights: [
       'Ilustrasi medis yang ramah dan tidak menakutkan',
       'Pengungkapan bertahap untuk menyajikan informasi medis kompleks secara bertahap',
@@ -134,7 +134,7 @@ const projectData = {
     logo: "logo-cloudmart.png",
     problem: 'UMKM membutuhkan platform jualan online yang mudah digunakan tanpa keahlian teknis, namun tetap memiliki fitur lengkap untuk mengelola produk dan pesanan.',
     role: 'UI/UX Designer — bertanggung jawab atas arsitektur informasi, sistem desain visual, desain interaksi, dan optimasi alur pengguna untuk meningkatkan tingkat konversi.',
-    tools: ['Figma', 'Whimsical', 'Hotjar', 'React', 'Tailwind CSS'],
+    tools: ['Figma', 'React', 'Tailwind CSS'],
     highlights: [
       'Alur checkout yang dioptimasi dari 5 langkah menjadi hanya 3 langkah',
       'Pencarian cerdas dengan saran otomatis dan fuzzy matching',
@@ -150,7 +150,7 @@ const projectData = {
     logo: "logo-epustaka.png",
     problem: 'Sistem perpustakaan konvensional tidak efisien — pencarian buku dilakukan manual, antrian panjang saat peminjaman, dan pelacakan status buku yang rumit bagi petugas.',
     role: 'UI/UX Designer — mendesain dashboard admin dan antarmuka pengguna, mengoptimasi alur pengguna untuk pencarian dan peminjaman, serta membangun sistem desain visual yang konsisten.',
-    tools: ['Figma', 'FigJam', 'React', 'Laravel', 'MySQL'],
+    tools: ['Figma', 'React', 'Laravel', 'MySQL'],
     highlights: [
       'Dashboard admin dengan visualisasi data yang jelas dan dapat ditindaklanjuti',
       'Sistem pencarian dengan filter multi-kategori (genre, tahun, ketersediaan)',
